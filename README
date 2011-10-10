@@ -1,0 +1,8 @@
+Quick guide to TTTSolver Projects
+
+TTTSolver - A test console.
+TTTSolver-Lib - The Core Tic Tac Toe model, implements boards, players, pieces, moves
+TTTSolver-Solver - Logic used by the AI to determine moves
+WinTTT - WinForms GUI for playing Tic tac Toe
+
+This project is in dire need of unit tests and better documentation.
